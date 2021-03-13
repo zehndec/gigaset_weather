@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-<channel>
-<title>Merimbula</title>
-<link>http://gardiner-weather.azurewebsites.net/api/forecast/NSW/Merimbula</link>
-<lastBuildDate>Sat, 13 Mar 2021 11:18:52 Z</lastBuildDate>
-<item>
-<guid isPermaLink="false">52ac0a19-7c26-42bc-9c0e-5aed22e08b79</guid>
-<description>&lt;b&gt;Sunday 14&lt;/b&gt;&lt;br/&gt;Morning rain.\r\n12-20&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Monday 15&lt;/b&gt;&lt;br/&gt;Mostly sunny.\r\n9-22&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Tuesday 16&lt;/b&gt;&lt;br/&gt;Possible shower.\r\n13-22&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Wednesday 17&lt;/b&gt;&lt;br/&gt;Possible shower.\r\n14-21&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Thursday 18&lt;/b&gt;&lt;br/&gt;Shower or two.\r\n14-22&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Friday 19&lt;/b&gt;&lt;br/&gt;Shower or two.\r\n15-22&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Saturday 20&lt;/b&gt;&lt;br/&gt;Shower or two.\r\n15-22&lt;br/&gt;&lt;br/&gt;</description>
-</item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>Merimbula</title><link>http://gardiner-weather.azurewebsites.net/api/forecast/NSW/Merimbula</link><description /><lastBuildDate>Sat, 13 Mar 2021 11:18:52 Z</lastBuildDate><item><guid isPermaLink="false">52ac0a19-7c26-42bc-9c0e-5aed22e08b79</guid><author>webops@bom.gov.au (Help Desk)</author><title /><description>&lt;b&gt;Sunday 14&lt;/b&gt;&lt;br/&gt;Morning rain.\r\n12-20&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Monday 15&lt;/b&gt;&lt;br/&gt;Mostly sunny.\r\n9-22&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Tuesday 16&lt;/b&gt;&lt;br/&gt;Possible shower.\r\n13-22&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Wednesday 17&lt;/b&gt;&lt;br/&gt;Possible shower.\r\n14-21&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Thursday 18&lt;/b&gt;&lt;br/&gt;Shower or two.\r\n14-22&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Friday 19&lt;/b&gt;&lt;br/&gt;Shower or two.\r\n15-22&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Saturday 20&lt;/b&gt;&lt;br/&gt;Shower or two.\r\n15-22&lt;br/&gt;&lt;br/&gt;</description></item></channel></rss>
